@@ -1,16 +1,10 @@
-# Aporya Labs
-### Decoding Human Context for the AI Era
+# Aporya Research
 
-Aporya is a research-driven initiative focused on decoding human context across emerging AI systems, products, and environments. We explore how meaning, intent, and behavior translate into machine-understandable signals.
+Aporya Research is an independent research stream focused on decoding human context in non-linear, automated environments.
 
----
+This repository serves as the organizational surface for ongoing research activity.
+Materials published here are working constructs.
 
-## The Mission
-We are bridging the gap between human intuition and machine intelligence, providing the cognitive infrastructure needed for a more precise and contextual digital future.
+Stabilized definitions, canonical models, and consolidated frameworks are anchored after review.
 
-- 🌐 [Official Website](https://aporya.com)
-- 🚀 [Join the Waitlist](https://aporya.com)
-- 💼 Follow us on [LinkedIn](https://www.linkedin.com/company/aporya)
-
----
-*Mapping the transition from raw data to human meaning.*
+→ https://aporya.com/research
