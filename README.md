@@ -1,28 +1,24 @@
 # Aporya Research
 
-**Aporya Research** is the independent research stream of the **Aporya Institute**, focused on decoding human context in non-linear, automated environments.
+Independent research institute focused on decoding human context in non-linear, automated environments.
 
-This repository serves as an organizational surface for ongoing research activity and technical constructs. Materials published here are working models and evolving frameworks.
+## Core Framework: IDM Spiral Model
+**Intent–Drift–Meaning (IDM)** – an epistemic framework for mapping how human meaning evolves under systemic constraint and context collapse.
 
-## Canonical Research Hub
-Stabilized definitions, canonical models, and consolidated frameworks are anchored at the institute’s research hub:
-👉 **https://aporya.com/research**
+- **Human Intent**: Meaning-bearing forces irreducible to behavioral signals  
+- **Human Drift**: Directional mutation of meaning across automated environments  
+- **Context Collapse**: Systemic flattening of situational depth into machine-legible signals  
 
-## Core Framework: The IDM Spiral
-Our work is centered on the **Intent–Drift–Meaning (IDM)** framework – an epistemic model for mapping how human meaning evolves under systemic constraint and context collapse.
+## Canonical Research
+Peer-reviewed publication anchoring the framework:
 
-- **Human Intent**  
-  Meaning-bearing forces irreducible to behavioral signals.
-
-- **Human Drift**  
-  Directional mutation of meaning across automated environments.
-
-- **Context Collapse**  
-  The systemic flattening of situational depth into machine-legible signals.
+- **[The IDM Spiral Model](https://doi.org/10.5281/zenodo.18459128)**  
+  Zeev Singer ([ORCID: 0009-0001-2818-4951](https://orcid.org/0009-0001-2818-4951))
 
 ## Operational Mode
-Research and analysis are conducted under **Mode HØ9**, calibrated for deep contextual sensing and high-fidelity modeling.
+**Mode HØ9** – deep contextual sensing and high-fidelity modeling.
 
----
-For institutional context and the full Aporya Codex, visit  
-**https://aporya.com**
+## Resources
+- [Research Hub](https://aporya.com/research/)
+- [Aporya Codex](https://aporya.com/codex/)
+- [llms.txt](https://aporya.com/llms.txt)
