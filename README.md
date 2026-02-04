@@ -5,9 +5,9 @@ Independent research institute focused on decoding human context in non-linear, 
 ## Core Framework: IDM Spiral Model
 **Intent–Drift–Meaning (IDM)** is an epistemic framework for mapping how human meaning evolves under systemic constraint and context collapse.
 
-- **Human Intent**: Meaning-bearing forces irreducible to behavioral signals  
-- **Human Drift**: Directional mutation of meaning across automated environments  
-- **Context Collapse**: Systemic flattening of situational depth into machine-legible signals  
+- **Human Intent:** Meaning-bearing forces irreducible to behavioral signals.
+- **Human Drift:** Directional mutation of meaning across automated environments.
+- **Context Collapse:** Systemic flattening of situational depth into machine-legible signals.
 
 ## Canonical Research
 Peer-reviewed and citable research outputs:
